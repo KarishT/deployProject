@@ -1,0 +1,28 @@
+.box1{
+  width: 300px;
+  height: 250px;
+}
+
+.box2{
+  height: 350px;
+  width: 400px;
+  background-color: blue
+}
+
+table{
+  border: 1px soild black;
+}
+
+li{
+  list-style-type: none;
+}
+
+.row1{
+  background-color: blue;
+  border: 1px solid black;
+}
+
+.row2{
+  background-color: yellow;
+  border: 1px solid black;
+}
